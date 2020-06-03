@@ -112,6 +112,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/contact-enroll.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/contact-enroll.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
@@ -129,7 +140,7 @@
       "output": {
         ".html": {
           "relative_path": "products/petpsy-workspace/index.html",
-          "hash": "iBwXpAw6QDX4l2ugtwc7Gw=="
+          "hash": "lAYDwfsTP/Eh+8I0qBHp8Q=="
         }
       },
       "is_incremental": false,
