@@ -168,6 +168,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/workspace/7.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/7.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/8.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/8.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/9.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/9.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/workspace/contact-enroll.png",
       "output": {
         "resource": {
@@ -195,7 +228,7 @@
       "output": {
         ".html": {
           "relative_path": "products/petpsy-workspace/index.html",
-          "hash": "/sYEfowX+HQHl0zC4sZSfg=="
+          "hash": "5pNEuRpB7wZVJ4EchQvObA=="
         }
       },
       "is_incremental": false,
