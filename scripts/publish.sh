@@ -17,6 +17,7 @@ docfx build -o $SITE ./docfx.json
 if [ $? -eq 0 ]; then
     echo "build succ"
     mv $SITE/_site/* $SITE
+    rm -rf $SITE/_site
     git add --all
     git commit -m "Update docs"
     git push origin master
