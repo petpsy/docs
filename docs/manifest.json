@@ -190,15 +190,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "products/petpsy-workspace/index.md",
       "output": {
         ".html": {
           "relative_path": "products/petpsy-workspace/index.html",
-          "hash": "fys/bMzSplfrsT2z7dH8TQ=="
+          "hash": "/sYEfowX+HQHl0zC4sZSfg=="
         }
       },
       "is_incremental": false,

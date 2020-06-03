@@ -13,9 +13,9 @@
 从浏览器中打开以上链接，您将看到不同操作系统的安装文件：Windows 安装包以`.exe`为后缀；Mac 安装包以`.dmg` 为后缀。
 
 <p align="center">
-<img width="800" src="../images/workspace/2.jpg" alt="安装包列表" />
+<img width="800" src="../../images/workspace/2.jpg" alt="安装包列表" />
 </br>
-<b>心理咨询顾问</b>
+<b>安装包列表</b>
 </p>
 
 派特心理工作台的安装包前缀是`PetPsy-Workspace`，*构建时间*是安装包创建时间，日期越大约近程序越新，功能也更完善，上传日期是创建后，被上传到公开发布路径的日期。派特心理目前迭代速度快，入驻咨询师我们会通过邮件发布更新提醒。
@@ -31,7 +31,7 @@
 在安装成功后，在桌面或应用中心，可找到“派特心理工作台”启动方式。
 
 <p align="center">
-<img width="350" src="../images/workspace/3.jpg" alt="派特心理工作台" />
+<img width="350" src="../../images/workspace/3.jpg" alt="派特心理工作台" />
 </br>
 <b>派特心理工作台 @ Mac OSX  启动中心</b>
 </p>
@@ -41,7 +41,7 @@
 在启动中心，打开*派特心理工作台*。
 
 <p align="center">
-<img width="800" src="../images/workspace/4.jpg" alt="登录界面" />
+<img width="800" src="../../images/workspace/4.jpg" alt="登录界面" />
 </br>
 <b>登录界面</b>
 </p>
@@ -53,7 +53,7 @@
 登录成功后，进入主界面。
 
 <p align="center">
-<img width="800" src="../images/workspace/5.jpg" alt="主界面" />
+<img width="800" src="../../images/workspace/5.jpg" alt="主界面" />
 </br>
 <b>主界面</b>
 </p>
@@ -65,7 +65,7 @@
 咨询者在派特心理小程序中，浏览咨询师的可预约时间时，是根据咨询师在日历上的设置相关的。日历中黄色背景的日期是当天，咨询师可在明天及未来的一个时间点上，点击日历的对应空白区域，这时会弹出对话框。
 
 <p align="center">
-<img width="800" src="../images/workspace/6.jpg" alt="创建预约时间段" />
+<img width="800" src="../../images/workspace/6.jpg" alt="创建预约时间段" />
 </br>
 <b>创建预约时间段</b>
 </p>
@@ -148,7 +148,7 @@ _≥12_ 小时的伦理培训，需出示培训证明。
 如果您满足以上条件，请联系派特心理咨询顾问。
 
 <p align="center">
-<img width="600" src="../images/workspace/contact-enroll.png" alt="心理咨询顾问" />
+<img width="600" src="../../images/workspace/contact-enroll.png" alt="心理咨询顾问" />
 </br>
 <b>心理咨询顾问</b>
 </p>
