@@ -1,8 +1,16 @@
-# Chatopera Docs
+# 派特心理：触手可及的心理健康服务
 
 文档中心
 
-Code as Docs.
+```
+https://petpsy.github.io/docs/index.html
+```
+
+## For GitHub Pages
+
+```
+./admin/publish.sh
+```
 
 ## 编译
 
@@ -68,8 +76,3 @@ npm start
 Copyright (2019-2020) Chatopera Inc. <https://chatopera.com>. All rights reserved.
 This software and related documentation are provided under a license agreement containing restrictions on use and disclosure and are protected by intellectual property laws.
 Except as expressly permitted in your license agreement or allowed by law, you may not use, copy, reproduce, translate, broadcast, modify, license, transmit, distribute, exhibit, perform, publish, or display any part, in any form, or by any means. Reverse engineering, disassembly, or decompilation of this software, unless required by law for interoperability, is prohibited.
-
-[![chatoper banner][co-banner-image]][co-url]
-
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
-[co-url]: https://www.chatopera.com

@@ -47,6 +47,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/gzh/qrcode_for_gh_711984e17ea2_860.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/gzh/qrcode_for_gh_711984e17ea2_860.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/home/1.png",
       "output": {
         "resource": {
@@ -106,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "4wqMraAdSQ2JToOTIwFf0g=="
+          "hash": "3cPK7BoIGfNeqITn9Equng=="
         }
       },
       "is_incremental": false,
@@ -118,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "products/petpsy-workspace/index.html",
-          "hash": "2k+M78kpYwMN0dNbS3MM1g=="
+          "hash": "iBwXpAw6QDX4l2ugtwc7Gw=="
         }
       },
       "is_incremental": false,

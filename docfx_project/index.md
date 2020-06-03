@@ -58,7 +58,11 @@
 
 为心理咨询师提供督导、心理学原创文章、心理咨询师社区。
 
-WeChat ID: Pet_Cosmos
+<p align="center">
+<img width="200" src="images/gzh/qrcode_for_gh_711984e17ea2_860.jpg" alt="派特宇宙" />
+</br>
+<b>派特宇宙(WeChat ID: Pet_Cosmos)</b>
+</p>
 
 <!-- TODO: add qrcode -->
 
