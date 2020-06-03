@@ -113,6 +113,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/workspace/2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/3.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/4.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/4.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/5.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/5.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/workspace/6.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/6.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/workspace/contact-enroll.png",
       "output": {
         "resource": {
@@ -140,7 +195,7 @@
       "output": {
         ".html": {
           "relative_path": "products/petpsy-workspace/index.html",
-          "hash": "lAYDwfsTP/Eh+8I0qBHp8Q=="
+          "hash": "yc4vzNtdzQz5pbuGRrSArA=="
         }
       },
       "is_incremental": false,
@@ -184,7 +239,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 2,
-          "skipped_file_count": 2
+          "skipped_file_count": 1
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
