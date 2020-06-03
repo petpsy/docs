@@ -1,63 +1,100 @@
 {
   "homepages": [],
-  "source_base_path": "/Users/hain/pet/docs",
+  "source_base_path": "/Users/hain/pet/docs/docfx_project",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
-      "type": "Conceptual",
-      "source_relative_path": "README.md",
+      "type": "Resource",
       "output": {
-        ".html": {
-          "relative_path": "README.html",
-          "hash": "Iv84W7YQvz1coDLqj2OYSg=="
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "api/index.md",
+      "type": "Resource",
+      "source_relative_path": "images/gzh/PetPsychology.jpg",
       "output": {
-        ".html": {
-          "relative_path": "api/index.html",
-          "hash": "AfNgC9JAwq8fA3/p4xAw8A=="
+        "resource": {
+          "relative_path": "images/gzh/PetPsychology.jpg"
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "api/toc.yml",
+      "type": "Resource",
+      "source_relative_path": "images/gzh/gh_6897e683c129_258.jpg",
       "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "H5frWk4fYGIWHpFNp3BdfA=="
+        "resource": {
+          "relative_path": "images/gzh/gh_6897e683c129_258.jpg"
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
+      "type": "Resource",
+      "source_relative_path": "images/home/1.png",
       "output": {
-        ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "2kwX83Bffp8iP2pO+LuIgw=="
+        "resource": {
+          "relative_path": "images/home/1.png"
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
+      "type": "Resource",
+      "source_relative_path": "images/home/pet-xca.jpg",
       "output": {
-        ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "gB8AESyvNru97tzIZofEEg=="
+        "resource": {
+          "relative_path": "images/home/pet-xca.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/navbar.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/navbar.png"
         }
       },
       "is_incremental": false,
@@ -69,7 +106,31 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "sglpNc1lJnyYhx0H/0FDmw=="
+          "hash": "4wqMraAdSQ2JToOTIwFf0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "products/petpsy-workspace/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "products/petpsy-workspace/index.html",
+          "hash": "2k+M78kpYwMN0dNbS3MM1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "products/petpsy-workspace/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "products/petpsy-workspace/toc.html",
+          "hash": "Vf54mFTt0IC0VMwQZSg0kA=="
         }
       },
       "is_incremental": false,
@@ -81,7 +142,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+          "hash": "uhEFFtIj8Ez3mgplcjW6Ew=="
         }
       },
       "is_incremental": false,
@@ -91,18 +152,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 2,
+          "skipped_file_count": 2
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
@@ -117,7 +183,7 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

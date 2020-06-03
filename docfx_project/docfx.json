@@ -1,0 +1,48 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": ["src/**.csproj"]
+        }
+      ],
+      "dest": "api",
+      "disableGitFeatures": true,
+      "disableDefaultFilter": true
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "products/petpsy-workspace/**.yml",
+          "products/petpsy-workspace/**.md"
+        ]
+      },
+      {
+        "files": ["toc.yml", "*.md"]
+      }
+    ],
+    "resource": [
+      {
+        "files": ["images/**"]
+      }
+    ],
+    "overwrite": [
+      {
+        "files": [],
+        "exclude": ["obj/**", "_site/**"]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadataFiles": ["global.json"],
+    "fileMetadataFiles": ["file1.json"],
+    "template": ["default", "templates/unity"],
+    "postProcessors": [],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": false
+  }
+}

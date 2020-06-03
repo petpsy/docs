@@ -3,10 +3,10 @@
 *.swo
 *.sublime-*
 *.pyc
+.tags
 jmeter.log
 __pycache__
 tmp/
-package-lock.json
 node_modules/
 sftp-config.json
 .DS_Store
@@ -14,10 +14,40 @@ sftp-config.json
 *.ipr
 *.iws
 *.idea
-~$*.xls*
-~$*.ppt*
-~$*.doc*
+~/Users/hain/chatopera/infocenter.next/.gitignore.xls*
+~/Users/hain/chatopera/infocenter.next/.gitignore.ppt*
+~/Users/hain/chatopera/infocenter.next/.gitignore.doc*
 nohup.out
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
 
 CMakeLists.txt.user
 CMakeCache.txt
@@ -25,20 +55,21 @@ CMakeFiles
 CMakeScripts
 Testing
 Makefile
-build
-build-*
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-.env
-###############
-#    folder   #
-###############
-/**/DROP/
-/**/TEMP/
-/**/packages/
-/**/bin/
-/**/obj/
-_site
+**/cmake-build-debug
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/install_manifest.txt
+**/CMakeFiles/
+**/CTestTestfile.cmake
+**/Makefile
+**/*.cbp
+**/CMakeScripts
+**/compile_commands.json
+dist/_site/
+docfx_project/obj/
+package-lock.json

@@ -1,0 +1,8 @@
+{
+  "_disableBreadcrumb": {
+    "**/index.md": true
+  },
+  "_disableToc": {
+    "products/petpsy-workspace/index.md": true
+  }
+}
