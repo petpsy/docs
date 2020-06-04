@@ -113,6 +113,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/workspace/10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/workspace/10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/workspace/2.jpg",
       "output": {
         "resource": {
@@ -223,12 +234,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "products/petpsy-workspace/index.md",
       "output": {
         ".html": {
           "relative_path": "products/petpsy-workspace/index.html",
-          "hash": "Ez5kj/ie4MS0Et/NGJOMSw=="
+          "hash": "MQZ2KOY5G6bAmkefiUrYZA=="
         }
       },
       "is_incremental": false,
