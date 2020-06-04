@@ -75,7 +75,7 @@
 在咨询者使用派特心理小程序，进行预约心理咨询师，将会看到您的可预约时间，选择时间，完成支付。
 
 <p align="center">
-<img width="800" src="../../images/workspace/10.jpg" alt="预约时间段展示在预约过程" />
+<img width="800" src="../../images/workspace/10.png" alt="预约时间段展示在预约过程" />
 </br>
 <b>预约时间段展示在预约过程</b>
 </p>
