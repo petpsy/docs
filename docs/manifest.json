@@ -113,10 +113,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/workspace/10.png",
+      "source_relative_path": "images/workspace/10.jpg",
       "output": {
         "resource": {
-          "relative_path": "images/workspace/10.png"
+          "relative_path": "images/workspace/10.jpg"
         }
       },
       "is_incremental": false,
@@ -234,9 +234,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "products/petpsy-workspace/index.md",
       "output": {
@@ -286,7 +283,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 2,
-          "skipped_file_count": 1
+          "skipped_file_count": 2
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
