@@ -51,7 +51,7 @@
 如果您在使用 Mac 客户端时，启动派特心理工作台，看到如下提示。
 
 <p align="center">
-<img width="800" src="../../images/workspace/11.png" alt="Mac 客户端启动问题" />
+<img width="400" src="../../images/workspace/11.png" alt="Mac 客户端启动问题" />
 </br>
 <b>Mac 客户端启动问题</b>
 </p>
@@ -83,7 +83,7 @@
 咨询者在派特心理小程序中，浏览咨询师的可预约时间时，是根据咨询师在日历上的设置相关的。日历中黄色背景的日期是当天，咨询师可在明天及未来的一个时间点上，点击日历的对应空白区域，这时会弹出对话框。
 
 <p align="center">
-<img width="400" src="../../images/workspace/6.jpg" alt="创建预约时间段" />
+<img width="800" src="../../images/workspace/6.jpg" alt="创建预约时间段" />
 </br>
 <b>创建预约时间段</b>
 </p>
