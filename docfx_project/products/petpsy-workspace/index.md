@@ -8,7 +8,7 @@
 
 派特心理工作台发布了 Windows 安装包和 Mac 安装包，下载地址为：
 
-[https://static-public.chatopera.com/pet/installer/](https://static-public.chatopera.com/pet/installer/)
+[https://static-public.chatopera.com/pet/installer/](https://static-public.chatopera.com/pet/installer/?sort=time&order=desc)
 
 从浏览器中打开以上链接，您将看到不同操作系统的安装文件：Windows 安装包以`.exe`为后缀；Mac 安装包以`.dmg` 为后缀。
 
